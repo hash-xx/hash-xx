@@ -9,7 +9,7 @@
 ### Hi there, I'm SMD -  [HashX][website] 👋
 
 [![Website](https://img.shields.io/website?label=hashx.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hashx.me)
-[![Website](https://img.shields.io/website?label=hashx.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/smdthiranjaya)
+[![Website](https://img.shields.io/website?label=old.acc&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/smdthiranjaya)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Hashx_official?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHashx_official&screen_name=Hashx_official)
 
 ## I'm a Student, Designer, Developer, and Streamer!! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
