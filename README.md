@@ -50,6 +50,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Smoke/Gas Leakage System &amp; Air Quality Webpage Realtime Monitoring with Arduino &amp; Blynk IOT Project](https://www.youtube.com/watch?v=BpP05wDhauk)
 - [Upload Photos To Instagram Using PC | පීසී එකෙන් ඉන්ස්ටගෑම් එකට ෆොටො අප්ලෝඩ් කරන්නෙ මෙහෙමයි](https://www.youtube.com/watch?v=opTkfKtvrno)
 <!-- YOUTUBE:END -->
 
